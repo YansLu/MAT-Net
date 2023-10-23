@@ -8,8 +8,11 @@ Facial Expression Recognition (FER) in the wild remains a challenging task due t
 This code was developed with Pytorch toolbox on GeForce RTX 4090 platform. The main Python requirements:
 
 python 3.6 
+
 torch  1.8.o+cu111
+
 opencv-python
+
 timm
 
 # Avialable
